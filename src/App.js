@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Произошло изменение
+          Произошло изменение 11.10.2023
         </a>
       </header>
     </div>
