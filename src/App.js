@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Тестовый сервак
+          Произошло изменение
         </a>
       </header>
     </div>
